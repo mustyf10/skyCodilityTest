@@ -29,7 +29,7 @@ Assume that:
 * each element of array A is an integer within the range [-10,000..10,000];
 * there is at least one element in array A which satisfies the condition in the task statement.
 
-In your soluction, focus on **correctness**. The performance of your solution will not be the focus of your assessment.
+In your solution, focus on **correctness**. The performance of your solution will not be the focus of your assessment.
 
 ## Task 3
 You are in a browser-like environment, where you have access to the window oject, the document object, and also $ - the jQuery library. The document contains a two-dimensional table. Each cell of the table has an upper-case letter in it and has its background color and text color set. Your task is simply to read the letters in row-major order (top to bottom, left to right), concatenate them into a single string and return it. However, you need to skip the letters that cannot be seen by the human eye. These are the ones whose colour is exactly the same as their background (that is, even marginal difference can be distinguished by a human eye).
